@@ -101,7 +101,7 @@ python generate_excel_report.py
 
 | Location | Latitude  | Longitude | Defect Category             | cracks | damage surface | divider | edge line | lane | pothole | sign board | zebra crossing | Address                                             |
 |----------|-----------|-----------|------------------------------|--------|----------------|---------|-----------|------|---------|-------------|----------------|------------------------------------------------------|
-| Walunj   | 19.012939 | 74.787864 | edge line, lane, sign board  |   0    |       0        |    0    |     1     |  3   |    0    |      1      |       0        | Walunj, Ahmednagar, Maharashtra, 414110, India      |
+| Walunj Road  | 19.012939 | 74.787864 | edge line, lane, sign board  |   0    |       0        |    0    |     1     |  3   |    0    |      1      |       0        | Walunj, Ahmednagar, Maharashtra, 414110, India      |
 
 ---
 
@@ -123,13 +123,4 @@ python generate_excel_report.py
 
 ---
 
-## 👤 Author
 
-**Rohan Waghade**  
-Intern – Data Science
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
