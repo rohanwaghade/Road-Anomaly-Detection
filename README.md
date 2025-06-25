@@ -155,17 +155,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Ideas for Improvement
 
-- **Detection System**:
-  - Automatically detect GPS overlay zone
-  - Integrate feedback loop for retraining
-  - Add a web-based dashboard with filtering
-
-- **Feedback Annotation Tool**:
-  - Add batch processing for annotations
-  - Implement auto-suggestions for bounding boxes
-  - Enhance CSV export with additional metadata
 
 ---
 
