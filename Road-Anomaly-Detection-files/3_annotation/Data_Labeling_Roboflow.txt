@@ -1,0 +1,36 @@
+# 🏷️ Data Labeling using Roboflow
+
+## 📥 Upload Frames
+Upload the extracted frames (using OpenCV or manual extraction) to [Roboflow](https://roboflow.com/).
+
+## 🐞 Label the Following Defect Classes
+
+While labeling, be sure to annotate objects using **bounding boxes** and assign one of the following classes:
+- `crack`
+- `pothole`
+- `divider`
+- `edge line`
+- `lane`
+- `sign board`
+- `zebra crossing`
+
+## 🔄 Export Labeled Dataset
+
+Once labeling is complete:
+1. Click **Generate**.
+2. Choose **YOLOv8** as the export format.
+3. Download the dataset.
+
+You will get:
+```
+dataset/
+├── images/
+│   ├── train/
+│   ├── valid/
+│   └── test/
+├── labels/
+│   ├── train/
+│   ├── valid/
+│   └── test/
+└── data.yaml
+```
